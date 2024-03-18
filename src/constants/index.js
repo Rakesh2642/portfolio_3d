@@ -47,7 +47,7 @@ const services = [
     icon: web,
   },
   {
-    title: "Aetificial Intelligence",
+    title: "Artificial Intelligence",
     icon: mobile,
   },
   {
